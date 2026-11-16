@@ -93,6 +93,6 @@ Python, Pandas, NumPy, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn e Str
 Usei ferramentas de inteligência artificial como apoio, mas conferi e validei os resultados.
 
 ## 10. Vídeo
-[COLE AQUI O LINK DO GOOGLE DRIVE QUANDO GRAVAR]
+
 
 Helyton Renato Gonçalves Ronchi, novembro de 2026.
