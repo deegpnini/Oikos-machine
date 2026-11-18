@@ -6,7 +6,6 @@
 
 **Arquivos principais:**
 - `notebook_final.ipynb`: Notebook Jupyter completo com as 7 fases, as células de texto justificando as decisões e as saídas executadas.
-- `pipeline_m1s13.py`: Versão em script Python com a mesma lógica.
 
 ## 1. O Problema
 Quando uma máquina quebra no meio do trabalho, a fábrica para e o prejuízo é grande. O objetivo deste projeto é construir um programa que leia os dados dos sensores (temperatura, velocidade, torque e desgaste) e avise antes que a máquina falhe.
